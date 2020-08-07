@@ -57,5 +57,7 @@ how to run in your system:
 
 # output
 
-    ![output](https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png?raw=true "output")
-
+   <p align="center">
+  <img src="https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png?raw=true" title="hover text">
+  <img src="https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png?raw=true" width="350" alt="accessibility text">
+</p>
