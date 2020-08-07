@@ -1,6 +1,6 @@
 # Facial Expression Recognition using keras(backend TensorFlow)
 
-####1.Background
+#### 1.Background
 
 We classify 6 emotions usingVGG architecture.
 ## Papers and refernces
