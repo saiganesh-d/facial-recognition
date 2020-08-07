@@ -55,5 +55,7 @@ how to run in your system:
   go to command prompt
   type  *python run.py*
 
+# output
 
+    ![GitHub Logo](/untitled.png)
 
