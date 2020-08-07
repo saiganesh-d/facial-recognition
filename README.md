@@ -52,7 +52,7 @@ Test:
 how to run in your system:
   download and extract entire project
   go to command prompt
-  type  *python realtime.py*
+  type  *python run.py*
 
 
 
