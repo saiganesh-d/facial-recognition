@@ -59,5 +59,5 @@ how to run in your system:
 
    <p align="center">
   <img src="https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png?raw=true" title="hover text">
-  <img src="https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png?raw=true" width="350" alt="accessibility text">
+  <img src="https://github.com/saiganesh-d/facial-recognition/blob/master/output2.png?raw=true" width="350" alt="accessibility text">
 </p>
