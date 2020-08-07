@@ -1,24 +1,24 @@
-# Facial Expression Recognizer
+# Facial Expression Recognition using keras(backend TensorFlow)
 
 ####1.Background
 
-VGG 16 architecture is used to classify 6 emotions.
+We classify 6 emotions usingVGG architecture.
+## Papers and refernces
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)--for VGG architecture
 
-- Paper on VGG architecture: [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+-  [Recognizing Facial Expressions Using Deep Learning](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)
 
-- Paper on which this project is based on: [Recognizing Facial Expressions Using Deep Learning](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)
+-  [Convolutional Neural Network](http://cs231n.github.io/convolutional-networks/)
 
-- Other references: [Convolutional Neural Network](http://cs231n.github.io/convolutional-networks/)
-
-- Techniques used in training:
+- Techniques :
 
   1. Class balancing using Resampling of Dataset
 
-     Reference: [8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+      [8 Tactics to Combat Imbalanced Classes in Your Machine Learning Dataset](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 
   2. Data augmentation
 
-     Reference:[Data augmentation](https://www.youtube.com/watch?v=JI8saFjK84o)
+     [Data augmentation](https://www.youtube.com/watch?v=JI8saFjK84o)
 
 #### 2.Requirements
 
@@ -28,12 +28,7 @@ pip install -r requirements.txt
 
  
 
-#### 3.Use
 
-- Use train_in_colab.ipynb to train the model in google colab
-- Use model_from_weights.py to create model from weights
-- Use realtime.py for realtime emotion recognition
-- vgg.py is architecture definition using Keras
 
 #### 4. Results
 
@@ -54,9 +49,10 @@ Test:
 
 
 
-#### Output
-
-![](/home/bishal/Upwork/Ahamad/EmotionRecognition/Resources/neutral.png) 
+how to run in your system:
+  download and extract entire project
+  go to command prompt
+  type  *python realtime.py*
 
 
 
