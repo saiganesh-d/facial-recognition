@@ -1,5 +1,6 @@
 # Facial Expression Recognition by KERAS (
-
+                by Sai Ganesh Dokala
+            email:saiganesh94dokala@gmail.com
 #### 1.Background
 
 We classify 6 emotions usingVGG architecture.
