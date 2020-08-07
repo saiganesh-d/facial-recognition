@@ -57,5 +57,5 @@ how to run in your system:
 
 # output
 
-    ![output](https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png)
+    ![output](https://github.com/saiganesh-d/facial-recognition/blob/master/Untitled.png?raw=true "output")
 
